@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+result/SQuAD-opt-*/
+*.pt
+*.bin
+*.safetensors
+.DS_Store
